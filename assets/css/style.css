@@ -74,7 +74,10 @@ main article{
     background-size: cover;
     background-position: center;
 }
-
+#work {
+display: flex;
+flex-wrap: wrap;
+}
 
 #contact-me {
     padding: 20px;
